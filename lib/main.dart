@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: AssetImage('asset/images/alex oppai.jpg'),
+            image: AssetImage('asset/images/oppai.png'),
           ),
         ),
         bottomNavigationBar: Text('this boobies is all you want v2'),
